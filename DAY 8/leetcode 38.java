@@ -1,4 +1,4 @@
-public class Solution {
+public class leetcode38 {
     public String countAndSay(int n) {
         String res="1";
         for(int i=2;i<=n;i++){
